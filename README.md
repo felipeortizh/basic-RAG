@@ -13,6 +13,7 @@ Medium
 .
 
 🔑 Features
+
 Web scraping & parsing via WikipediaLoader (2 articles) and bs4.SoupStrainer to limit HTML parse scope 
 crummy.com
 .
@@ -58,8 +59,8 @@ source .venv/bin/activate    # Windows: .venv\Scripts\activate
 
 # 3. Install deps
 pip install -r requirements.txt
-▶️ Usage
 
+▶️ Usage
 # Ensure OPENAI_API_KEY is set:
 export OPENAI_API_KEY="sk-…"
 
@@ -93,6 +94,7 @@ GitHub
 Medium
 .
 🔧 Customization
+
 Change topic by editing the query argument in WikipediaLoader.
 
 Persist FAISS DB to disk by passing persist_directory="db" to FAISS.from_documents().
