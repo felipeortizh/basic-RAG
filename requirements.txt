@@ -1,0 +1,7 @@
+langchain_community
+langchain_experimental
+langchain-openai
+langchainhub
+chromadb
+langchain
+beautifulsoup4
