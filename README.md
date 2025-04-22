@@ -92,4 +92,4 @@ basic-RAG/
 Contributions are welcome! Please open an issue to discuss your ideas or submit a pull request.
 
 ## License
-Released under the MIT License. See `LICENSE` for details.
+Released under the MIT License.
