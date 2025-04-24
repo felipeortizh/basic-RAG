@@ -2,7 +2,7 @@
 
 > **Retrieval‑Augmented Generation demo with LangChain, FAISS and OpenAI**
 
-![Project banner](basic-rag-image.png)
+![Project banner](rag-image.png)
 
 ## Features
 - Downloads Wikipedia articles on a topic of your choice via `WikipediaLoader`.
