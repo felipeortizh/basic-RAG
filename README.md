@@ -9,7 +9,7 @@
 - Splits text into semantically coherent chunks with `SemanticChunker`.
 - Creates an in‑memory FAISS vector store with OpenAI embeddings.
 - Retrieves the most relevant chunks for a user question.
-- Generates an answer with GPT‑3.5/4 using a prompt pulled from LangChain Hub.
+- Generates an answer with GPT-4o using a prompt pulled from LangChain Hub.
 - Everything runs in a single script: `naive_rag_wikipedia.py`.
 
 ## Quick start
